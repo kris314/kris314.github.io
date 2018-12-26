@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Praveen Krishnan on Praveen Krishnan</title>
+    <link>https://kris314.github.io/</link>
+    <description>Recent content in Praveen Krishnan on Praveen Krishnan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0530</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>POS Tagging and Named Entity Recognition on Handwritten Documents</title>
+      <link>https://kris314.github.io/publication/pos-ner/</link>
+      <pubDate>Tue, 25 Dec 2018 15:41:57 +0530</pubDate>
+      
+      <guid>https://kris314.github.io/publication/pos-ner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Spotting and Recognition of Handwritten Words in Indic Scripts</title>
+      <link>https://kris314.github.io/publication/indic-spot-hwr/</link>
+      <pubDate>Sat, 11 Aug 2018 15:41:21 +0530</pubDate>
+      
+      <guid>https://kris314.github.io/publication/indic-spot-hwr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Localizing and Recognizing Text in Lecture Videos</title>
+      <link>https://kris314.github.io/publication/inst-vids/</link>
+      <pubDate>Sat, 11 Aug 2018 15:40:44 +0530</pubDate>
+      
+      <guid>https://kris314.github.io/publication/inst-vids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving CNN-RNN Hybrid Networks for Handwriting Recognition</title>
+      <link>https://kris314.github.io/publication/hwr/</link>
+      <pubDate>Sat, 11 Aug 2018 15:40:12 +0530</pubDate>
+      
+      <guid>https://kris314.github.io/publication/hwr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word Image Embedding</title>
+      <link>https://kris314.github.io/project/wordembed/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://kris314.github.io/project/wordembed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word Spotting and Recognition Using Deep Embedding</title>
+      <link>https://kris314.github.io/publication/e2eembed/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://kris314.github.io/publication/e2eembed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Offline Handwriting Recognition on Devanagari using a new Benchmark Dataset</title>
+      <link>https://kris314.github.io/publication/dev-dataset/</link>
+      <pubDate>Sun, 22 Apr 2018 15:41:34 +0530</pubDate>
+      
+      <guid>https://kris314.github.io/publication/dev-dataset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HWNet v2: An Efficient Word Image Representation for Handwritten Documents</title>
+      <link>https://kris314.github.io/publication/hwnetv2/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://kris314.github.io/publication/hwnetv2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Accurate Handwritten Word Recognition for Hindi and Bangla</title>
+      <link>https://kris314.github.io/publication/hin-ban-hwr/</link>
+      <pubDate>Mon, 18 Dec 2017 15:40:22 +0530</pubDate>
+      
+      <guid>https://kris314.github.io/publication/hin-ban-hwr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Learning and Embedding Techniques</title>
+      <link>https://kris314.github.io/teaching/featembed/</link>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0530</pubDate>
+      
+      <guid>https://kris314.github.io/teaching/featembed/</guid>
+      <description>
+
+&lt;p&gt;In recent years, in the field of vision and other AI problems, there has been a paradigm shift in the way we represent features. Feature learning has been a common buzzword due to the resurgence of neural networks with much bigger architectures, data and efficient optimization techniques. Deep Learning as referred to these learnable machines due to their enormous number of parameters has taken its own place in the field of machine learning with a large research community base, trying to solve complex real world problems. The course is divided into four parts:&lt;/p&gt;
+
+&lt;h2 id=&#34;bows-and-encoding-techniques&#34;&gt;&lt;strong&gt;BoWs and Encoding Techniques&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;In the first part of the course, we begin with the state of art feature descriptors used prior to deep learning (before 2012).&lt;/p&gt;
+
+&lt;h3 id=&#34;sub-topics&#34;&gt;Sub-Topics&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bag of Words (BoWs)
+
+&lt;ul&gt;
+&lt;li&gt;Learning visual vocabulary&lt;/li&gt;
+&lt;li&gt;Coding and Pooling&lt;/li&gt;
+&lt;li&gt;Ranking and Retrieval&lt;/li&gt;
+&lt;li&gt;Geometric Verification&lt;/li&gt;
+&lt;li&gt;Inspiration from IR domain&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Advanced coding schemes
+
+&lt;ul&gt;
+&lt;li&gt;Kernel code books, Sparse Coding and Locally constrained linear coding.&lt;/li&gt;
+&lt;li&gt;VLADs, Fisher Vector and Super Vector&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;course-material-link-https-researchweb-iiit-ac-in-praveen-krishnan-compreexam-slides-t1-bowandbeyond-pdf&#34;&gt;Course Material: &lt;a href=&#34;https://researchweb.iiit.ac.in/~praveen.krishnan/compreExam/slides/T1-BoWandBeyond.pdf&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h2 id=&#34;convolutional-neural-networks&#34;&gt;&lt;strong&gt;Convolutional neural networks&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;In the major theme of the course, we start with fundamentals of a convolutional neural network (CNN), different layers, loss functions and also visualize the features learnt implicitly in each individual layer. We also discuss some of the major architectures proposed from 2012-2016 which got attention since they were winning entries of Large Scale Visual Recognition challenge. We also see how these architectures enable building image retrieval applications. Here we begin with the metric learning problem which uses ranking and similarity based loss functions. We later present a case study of some recent architectures used for instance based  retrieval using deep neural networks while also revisiting some of the concepts from pooling, feature aggregation used from prior deep learning era.&lt;/p&gt;
+
+&lt;h3 id=&#34;sub-topics-1&#34;&gt;Sub-Topics&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Paradigm Shift: Feature engineering to feature learning
+
+&lt;ul&gt;
+&lt;li&gt;Simple feed forward network&lt;/li&gt;
+&lt;li&gt;Convolutional Network&lt;/li&gt;
+&lt;li&gt;Basics, Activation functions, Layers
+
+&lt;ul&gt;
+&lt;li&gt;Training and Loss functions&lt;/li&gt;
+&lt;li&gt;Generalization: Dropouts&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Visualizing CNNs using
+
+&lt;ul&gt;
+&lt;li&gt;Deconvnets and Saliency maps&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Transfer Learning&lt;/li&gt;
+&lt;li&gt;Some Practical Aspects&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Advanced NN architectures - Case Studies
+
+&lt;ul&gt;
+&lt;li&gt;LeNet, AlexNet, Overfeat, VGG, GoogLeNet, ResNet&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;CNNs: Beyond 0/1 Loss Functions: Metric Learning
+
+&lt;ul&gt;
+&lt;li&gt;Basics in Metric Learning (Mahalanobis, LMNN)&lt;/li&gt;
+&lt;li&gt;Constrastive Loss (Siamese Architecture) and applications (dimensionality reduction and face verification)&lt;/li&gt;
+&lt;li&gt;Triplet Loss, Mining hard examples and application (face verification)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Instance level retrieval and matching
+
+&lt;ul&gt;
+&lt;li&gt;Visual instance retrieval
+
+&lt;ul&gt;
+&lt;li&gt;Image retrieval using Deep Networks&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Neural Codes for Image Retrieval
+
+&lt;ul&gt;
+&lt;li&gt;Multi-Scale Orderless Pooling&lt;/li&gt;
+&lt;li&gt;Sum Pooled Convolutional Features&lt;/li&gt;
+&lt;li&gt;Integral Max Pooling&lt;/li&gt;
+&lt;li&gt;Magnet Loss&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Case Study: Deep Image Retrieval (Gordo et. al. ECCV’16)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;course-material-link1-https-researchweb-iiit-ac-in-praveen-krishnan-compreexam-slides-t2-cnns-pdf-link2-https-researchweb-iiit-ac-in-praveen-krishnan-compreexam-slides-t3-moderncnnarchitectures-pdf-link3-https-researchweb-iiit-ac-in-praveen-krishnan-compreexam-slides-t4-distancemetriclearningbeyond0-1loss-pdf-link4-https-researchweb-iiit-ac-in-praveen-krishnan-compreexam-slides-t5-visualinstanceretrieval-pdf&#34;&gt;Course Material: &lt;a href=&#34;https://researchweb.iiit.ac.in/~praveen.krishnan/compreExam/slides/T2-CNNs.pdf&#34; target=&#34;_blank&#34;&gt;Link1&lt;/a&gt;, &lt;a href=&#34;https://researchweb.iiit.ac.in/~praveen.krishnan/compreExam/slides/T3-ModernCNNArchitectures.pdf&#34; target=&#34;_blank&#34;&gt;Link2&lt;/a&gt;, &lt;a href=&#34;https://researchweb.iiit.ac.in/~praveen.krishnan/compreExam/slides/T4-DistanceMetricLearningBeyond0-1Loss.pdf&#34; target=&#34;_blank&#34;&gt;Link3&lt;/a&gt;, &lt;a href=&#34;https://researchweb.iiit.ac.in/~praveen.krishnan/compreExam/slides/T5-VisualInstanceRetrieval.pdf&#34; target=&#34;_blank&#34;&gt;Link4&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h2 id=&#34;soft-attention-models-in-deep-networks&#34;&gt;&lt;strong&gt;Soft Attention Models in Deep Networks&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;In the third part of the course, we delve into generative methods where we start with a LSTM model used as a predictive network. We later introduce a recent class of generative models called as variational autoencoders (VAE). We further introduce a new learning module called as attention interface which empowers learning with sequential data such as handwriting, text and speech. As a case study, we present the DRAW architecture which uses LSTM architecture and utilizes the concepts from VAE and attention mechanism to generate 2D images.&lt;/p&gt;
+
+&lt;h3 id=&#34;sub-topics-2&#34;&gt;Sub-Topics&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Motivation for attention models&lt;/li&gt;
+&lt;li&gt;Primer on Prediction using RNNs
+
+&lt;ul&gt;
+&lt;li&gt;Handwriting prediction&lt;/li&gt;
+&lt;li&gt;Handwriting synthesis&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Basics in variational autoencoders&lt;/li&gt;
+&lt;li&gt;Deep Recurrent Attentive Writer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;course-material-link-https-researchweb-iiit-ac-in-praveen-krishnan-compreexam-slides-t6-softattentionmodelsindeepnetworks-pdf&#34;&gt;Course Material: &lt;a href=&#34;https://researchweb.iiit.ac.in/~praveen.krishnan/compreExam/slides/T6-SoftAttentionModelsinDeepNetworks.pdf&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h2 id=&#34;word-embedding-techniques&#34;&gt;&lt;strong&gt;Word Embedding techniques&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;In the last part of the course, we introduce the concept of word embedding technique which is used in many NLP application to encode the discrete words into continous space where the semantic relationships are explicit. Here we discuss neural language modeling and present the prominent embedding technique using word2vec.&lt;/p&gt;
+
+&lt;h3 id=&#34;sub-topics-3&#34;&gt;Sub-Topics&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Introduction to language modelling and classical topic modeling methods.&lt;/li&gt;
+&lt;li&gt;Neural language model and discussion on issues of tradtional softmax layer.&lt;/li&gt;
+&lt;li&gt;Recent word embedding models:-
+
+&lt;ul&gt;
+&lt;li&gt;C&amp;amp;W Model&lt;/li&gt;
+&lt;li&gt;Word2Vec (Continous BoWs and Skip grams)
+
+&lt;ul&gt;
+&lt;li&gt;Hierarchical Softmax&lt;/li&gt;
+&lt;li&gt;Noise Contrastive Estimation&lt;/li&gt;
+&lt;li&gt;Negative Sampling&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;course-material-link-https-researchweb-iiit-ac-in-praveen-krishnan-compreexam-slides-t7-wordembedding-pdf&#34;&gt;Course Material: &lt;a href=&#34;https://researchweb.iiit.ac.in/~praveen.krishnan/compreExam/slides/T7-WordEmbedding.pdf&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;/h4&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Feature Embedding for Accurate Recognition and Retrieval of Handwritten Text</title>
+      <link>https://kris314.github.io/publication/featembed/</link>
+      <pubDate>Sun, 23 Oct 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://kris314.github.io/publication/featembed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Aesthetic Analysis for Handwritten Document Images</title>
+      <link>https://kris314.github.io/publication/visual-aesthetics/</link>
+      <pubDate>Thu, 11 Aug 2016 15:39:40 +0530</pubDate>
+      
+      <guid>https://kris314.github.io/publication/visual-aesthetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matching Handwritten Document Images</title>
+      <link>https://kris314.github.io/publication/matchdocs/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://kris314.github.io/publication/matchdocs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Synthetic Data for Text Recognition</title>
+      <link>https://kris314.github.io/publication/synth-data/</link>
+      <pubDate>Sat, 25 Jun 2016 15:39:08 +0530</pubDate>
+      
+      <guid>https://kris314.github.io/publication/synth-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indic Handwriting Recognition</title>
+      <link>https://kris314.github.io/project/indicohr/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://kris314.github.io/project/indicohr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

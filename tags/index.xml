@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Praveen Krishnan</title>
+    <link>https://kris314.github.io/tags/</link>
+    <description>Recent content in Tags on Praveen Krishnan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://kris314.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BoVW</title>
+      <link>https://kris314.github.io/tags/bovw/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0530</pubDate>
+      
+      <guid>https://kris314.github.io/tags/bovw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>applications</title>
+      <link>https://kris314.github.io/tags/applications/</link>
+      <pubDate>Mon, 27 Aug 2012 00:00:00 +0530</pubDate>
+      
+      <guid>https://kris314.github.io/tags/applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep-learning</title>
+      <link>https://kris314.github.io/tags/deep-learning/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://kris314.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>handwritten-recognition</title>
+      <link>https://kris314.github.io/tags/handwritten-recognition/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://kris314.github.io/tags/handwritten-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>word-spotting</title>
+      <link>https://kris314.github.io/tags/word-spotting/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://kris314.github.io/tags/word-spotting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

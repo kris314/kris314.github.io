@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Praveen Krishnan</title>
+    <link>https://kris314.github.io/project/</link>
+    <description>Recent content in Projects on Praveen Krishnan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://kris314.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Word Image Embedding</title>
+      <link>https://kris314.github.io/project/wordembed/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://kris314.github.io/project/wordembed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indic Handwriting Recognition</title>
+      <link>https://kris314.github.io/project/indicohr/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://kris314.github.io/project/indicohr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applications</title>
+      <link>https://kris314.github.io/project/applications/</link>
+      <pubDate>Mon, 27 Aug 2012 00:00:00 +0530</pubDate>
+      
+      <guid>https://kris314.github.io/project/applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Document Image Retrieval</title>
+      <link>https://kris314.github.io/project/docretrieval/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0530</pubDate>
+      
+      <guid>https://kris314.github.io/project/docretrieval/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
