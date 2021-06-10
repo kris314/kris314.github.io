@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 20 May 2017 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 20 May 2017 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://kris314.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Feature Learning and Embedding Techniques</title>
       <link>https://kris314.github.io/teaching/featembed/</link>
-      <pubDate>Sat, 20 May 2017 00:00:00 +0530</pubDate>
+      <pubDate>Sat, 20 May 2017 00:00:00 -0700</pubDate>
       
       <guid>https://kris314.github.io/teaching/featembed/</guid>
       <description>In recent years, in the field of vision and other AI problems, there has been a paradigm shift in the way we represent features. Feature learning has been a common buzzword due to the resurgence of neural networks with much bigger architectures, data and efficient optimization techniques. Deep Learning as referred to these learnable machines due to their enormous number of parameters has taken its own place in the field of machine learning with a large research community base, trying to solve complex real world problems.</description>

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2012 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="https://kris314.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>BoVW</title>
       <link>https://kris314.github.io/tags/bovw/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0800</pubDate>
       
       <guid>https://kris314.github.io/tags/bovw/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>applications</title>
       <link>https://kris314.github.io/tags/applications/</link>
-      <pubDate>Mon, 27 Aug 2012 00:00:00 +0530</pubDate>
+      <pubDate>Mon, 27 Aug 2012 00:00:00 -0700</pubDate>
       
       <guid>https://kris314.github.io/tags/applications/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>deep-learning</title>
       <link>https://kris314.github.io/tags/deep-learning/</link>
-      <pubDate>Fri, 27 Apr 2018 00:00:00 +0530</pubDate>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 -0700</pubDate>
       
       <guid>https://kris314.github.io/tags/deep-learning/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>handwritten-recognition</title>
       <link>https://kris314.github.io/tags/handwritten-recognition/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://kris314.github.io/tags/handwritten-recognition/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>word-spotting</title>
       <link>https://kris314.github.io/tags/word-spotting/</link>
-      <pubDate>Fri, 27 Apr 2018 00:00:00 +0530</pubDate>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 -0700</pubDate>
       
       <guid>https://kris314.github.io/tags/word-spotting/</guid>
       <description></description>

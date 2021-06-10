@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2012 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="https://kris314.github.io/tags/bovw/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Document Image Retrieval</title>
       <link>https://kris314.github.io/project/docretrieval/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0800</pubDate>
       
       <guid>https://kris314.github.io/project/docretrieval/</guid>
       <description></description>
